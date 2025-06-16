@@ -135,7 +135,7 @@ function App() {
 			
 			<div className="card">
 				<p className="read-the-docs">
-					Click pra sumar 5
+					Click para sumar 5
 				</p>
 				<button onClick={() => setCount((count) => count + 5)}>
 					count is {count}
